@@ -1,0 +1,10 @@
+# Basic Python project requirements
+# Add your dependencies below 
+
+python-dotenv 
+elasticsearch==8.15.0
+fastapi
+uvicorn
+matplotlib
+numpy
+scikit-learn
